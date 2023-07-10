@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML, Tableau, Pandas**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SteveJ911](https://github.com/SteveJ911)
+- 👨‍💻 All of my projects are available at [[https://github.com/SteveJ911](https://github.com/SteveJ911/yandex_practicum_projects)]([https://github.com/SteveJ911](https://github.com/SteveJ911/yandex_practicum_projects))
 
 - 📫 How to reach me **stepan-burko@yandex.ru**
 
